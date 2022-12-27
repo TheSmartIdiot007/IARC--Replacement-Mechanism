@@ -4,5 +4,6 @@
 >
 > UMIC is a students based team formed by students of Indian Institute of Technology (IIT) Bombay. We mainly focuses on Autonomous Cars and UAVs. So we have two divisons:
 
-> i. Aerove: For Unmanned Aerial Vehicles
-> ii. Sedrica : For Self Driving Cars
+> i. Aerove: For Unmanned Aerial Vehicles.
+> 
+> ii. Sedrica : For Self Driving Cars.
